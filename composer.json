@@ -1,0 +1,17 @@
+{
+    "name": "chutaotech\/yilianyun",
+    "description": "易联云 API SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chutaotech",
+            "email": "develop@chutao.io"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chutaotech\\Yilianyun\\": "src"
+        }
+    }
+}
